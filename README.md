@@ -164,6 +164,3 @@ function MyComponent() {
 - **Next.js**: Image domains in `next.config.ts`
 - **Theme**: Class-based dark mode support
 
-## 📄 License
-
-This project is licensed under the MIT License.
